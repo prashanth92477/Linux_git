@@ -1,1 +1,3 @@
 Hello i am first textfile 
+Hello i am edit the file1.txt
+please check and resolve merge conflict.
